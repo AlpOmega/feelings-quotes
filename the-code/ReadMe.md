@@ -1,5 +1,5 @@
 # explaination of the code
-
+---
 __this code is to show the emotion__
 
 The program is to get the user's input about how they fell, and depndeing on the emotion, it will return a quote/thing to help.
