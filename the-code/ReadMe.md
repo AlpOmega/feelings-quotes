@@ -12,4 +12,4 @@ result is a value that contains the result of the code, next method decides whet
 
 ___
 
-[comment]: <> this code might not be the best in term of performance, but it won't matter much, because it's a small project
+[comment]: # this code might not be the best in term of performance, but it won't matter much, because it's a small project
